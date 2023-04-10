@@ -1,0 +1,14 @@
+th, td,table{
+    width: 460px;
+    border-collapse: collapse;
+    border-spacing: 0;
+    text-align: center;
+
+}
+
+th{
+    text-align: center;
+    background-color: rgb(105, 154, 105);
+    color: white;
+    font-family: monospace;
+}
